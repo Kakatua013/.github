@@ -136,7 +136,7 @@ const char* apiKey   = "SUA_API_KEY";
 ---
 
 ### [KakatuaUMLs](https://github.com/Kakatua013/KakatuaUMLs)
-Diagramas UML do projeto: caso de uso, componentes e implantação. Gerados com [Astah UML](https://astah.net/) e usados como documentação de análise e projeto do sistema.
+Diagramas UML do projeto: caso de uso, componentes e implantação. Gerados com **ModelIO** e usados como documentação de análise e projeto do sistema.
 
 ---
 
