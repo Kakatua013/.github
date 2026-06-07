@@ -142,10 +142,10 @@ Diagramas UML do projeto: caso de uso, componentes e implantação. Gerados com 
 
 ## Autores
 
-| Nome | GitHub |
-|------|--------|
-| Guilherme Souza Santos | [@guilherme-968](https://github.com/guilherme-968) |
-| Davi Sousa Alves | [@Dabiito](https://github.com/Dabiito) |
-| Gustavo Santiago de Almeida | [@GustavoLagartixa](https://github.com/GustavoLagartixa) |
-| Edwin Sasaki | [@HideonHills](https://github.com/HideonHills) |
-| Raul Santos | [@rauS2](https://github.com/rauS2) |
+| Nome | GitHub | Email Unisantos |
+|------|--------|-----------------|
+| Guilherme Souza Santos | [@guilherme-968](https://github.com/guilherme-968) |guilhermessantos@unisantos.br |
+| Davi Sousa Alves | [@Dabiito](https://github.com/Dabiito) | davi.alves@unisantos.br |
+| Gustavo Santiago de Almeida | [@GustavoLagartixa](https://github.com/GustavoLagartixa) | gustavo.almeida@unisantos.br |
+| Edwin Sasaki | [@HideonHills](https://github.com/HideonHills) | edwinsasaki@unisantos.br | 
+| Raul Santos | [@rauS2](https://github.com/rauS2) | raulsdasilva@unisantos.br |
